@@ -50,28 +50,25 @@
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
 </p>
 
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
+  <!-- Sử dụng server dự phòng (Mirror) để fix lỗi 503 -->
   <a href="https://github.com/hoanghuan2005">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoanghuan2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hoanghuan2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
   <br><br>
   <a href="https://github.com/hoanghuan2005">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanghuan2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hoanghuan2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   </a>
 </div>
 
 <br>
 
-<!-- Streak Stats -->
+<!-- Streak Stats: Chuyển từ Heroku sang Demolab (cực kỳ ổn định) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoanghuan2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hoanghuan2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 <h2 align="center">📫 Where to find me</h2>
 
