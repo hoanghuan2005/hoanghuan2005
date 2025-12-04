@@ -70,7 +70,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoanghuan2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<h2 align="center">📫 Where to find me</h2>
+<!-- <h2 align="center">📫 Where to find me</h2>
 
 <div align="center">
   <a href="https://facebook.com/hoanghuan2005" target="_blank">
@@ -92,7 +92,7 @@
   <a href="mailto:hoanghuan2005.official@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-</div>
+</div> -->
 
 <br>
 
