@@ -65,9 +65,9 @@
 
 <br>
 
-<!-- Streak Stats: Chuyển từ Heroku sang Demolab (cực kỳ ổn định) -->
+<!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hoanghuan2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoanghuan2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <h2 align="center">📫 Where to find me</h2>
